@@ -1,1 +1,3 @@
-5GB trick is now not working(may be work later) .. New trick is coming soon...Stay tuned.. Follow me on instagram ... For SkVpn 7 Day premium account contact me on <a href="https://www.instagram.com/naveedhassan913/"> instagram</a> only... Currently WhatsApp Group is full...
+New <b>Telegram</b> Group join kare  
+<a href="https://t.me/joinchat/NwZN4RUWw5pivBpqAJ2bjA"> click</a> 
+Whatsapp group nai chal raha

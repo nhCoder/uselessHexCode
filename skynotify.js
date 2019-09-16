@@ -1,2 +1,2 @@
-Follow me on <a href="https://www.instagram.com/naveedhassan913/"> instagram</a> .Please don't enter others userId, use your own.
-Currently WhatsApp Group is full Don't message me.
+5GB trick is now not working(may be work later) .. New trick is coming soon...Stay tuned.. Follow me on <a href="https://www.instagram.com/naveedhassan913/"> instagram</a> 
+Currently WhatsApp Group is full...

@@ -1,1 +1,1 @@
-Follow me on <a href="https://www.instagram.com/naveedhassan913/"> instagram</a> .Please don't enter others userId, use yourself.Otherwise your ip will be banned
+Follow me on <a href="https://www.instagram.com/naveedhassan913/"> instagram</a> .Please don't enter others userId, use your own

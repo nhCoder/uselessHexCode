@@ -1,6 +1,6 @@
 {
 
-"isbanned":false
+"isbanned":true
 
 }
 

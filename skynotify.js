@@ -1,2 +1,1 @@
-Follow me on <a href="https://www.instagram.com/naveedhassan913/"> instagram</a> .Please don't enter others userId, use your own.
-Currently WhatsApp Group is full Don't message me.
+Guys app modding krna ki waja se temporarily suspended he... Sham ko open hogi R modding na kren thanks.... 

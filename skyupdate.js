@@ -1,7 +1,0 @@
-{
-
-"isbanned":true,
-"appBanned":true
-
-}
-

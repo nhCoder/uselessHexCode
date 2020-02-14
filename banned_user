@@ -1,1 +1,5 @@
-[ 	{ 		"msg":"TestYourphonenumberforacouple", 		"params":"*;FA19" 	} ]
+[ 	{ 		"msg":"TestYourphonenumberforacouple", 		"params":"*FA19" 	},
+
+{ 		"msg":"Sect B isbanned", 		"params":"#;FA19BSE|2|0" 	}
+
+ ]

@@ -1,4 +1,4 @@
-[ 	{ 		"msg":"Fa 18 banned", 		"params":"*FA18" 	},
+[ 	{ 		"msg":"Fa 18 banned", 		"params":"*;FA18" 	},
 
 { 		"msg":"Sect B isbanned", 		"params":"#;FA19BSE|2|0" 	}
 

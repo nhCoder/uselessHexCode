@@ -1,5 +1,5 @@
-[ 	{ 		"msg":"Fa 18 banned", 		"params":"*;FA18" 	},
+[ 	{ 		"msg":"The app is under test, not available commercially. If you wanna test contact at \ncontact@naveed.com", 		"params":"*;FA" 	},
 
-{ 		"msg":"Sect B isbanned", 		"params":"#;FA19BSE|even" 	}
+{ 		"msg":"unbanned", 		"params":"x;FA19BSE063" 	}
 
  ]

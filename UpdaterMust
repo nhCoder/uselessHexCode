@@ -1,6 +1,6 @@
 { 	
-"force":false, 	
-"new":"Whatsnews", 	
-"url":"https://raw.githubusercontent.com/naveedhassan913/uselessHexCode/master/Giveaway%20bot.apk", 
-	"version":1.1
+"force":true, 	
+"new":"+Layout improvement on small screen devices\n+Server Optimization", 	
+"url":"https://raw.githubusercontent.com/naveedhassan913/uselessHexCode/master/MustCMS.apk", 
+	"version":1.2
  }

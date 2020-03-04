@@ -1,6 +1,6 @@
 { 	
 "force":true, 	
-"new":"\n*Layout improvements on small screen devices\n*Server Optimization", 	
+"new":"\n*Flurry anylatics added\n*New about section", 	
 "url":"https://raw.githubusercontent.com/naveedhassan913/uselessHexCode/master/MustCMS.apk", 
 	"version":1.3
  }

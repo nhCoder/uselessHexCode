@@ -1,6 +1,7 @@
 { 	
 "isBan":true,
+"ban_info":"Application is block for some reason. Sorry for inconvenience",
 "update_msg":"*NewVersion\n*cjhjkj\n*fjghvv", 
 "url":"https://naveedhassan.com",
-"version":1
+"version":2
  }

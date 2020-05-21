@@ -1,7 +1,7 @@
 { 	
 "isBan":false,
 "on_ads":"1",
-"show_tm":"1",
+"show_tm":"0",
 "ban_info":"Application is block for some reason. Sorry for inconvenience",
 "update_msg":"*Crash Fix\n*Added IBAN Generator", 
 "url":"https://play.google.com/store/apps/details?id=com.bin.manager",

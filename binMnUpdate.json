@@ -1,5 +1,7 @@
 { 	
-"isBan":false,
+"isBanv1.2":false,
+"beta_v1.2_banned":false,
+"private_checker_on":true, 
 "on_ads":"1",
 "show_tm":"1",
 "ban_info":"Application is block for some reason. Sorry for inconvenience",

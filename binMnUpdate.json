@@ -1,10 +1,9 @@
 { 	
-"isBanv1.2":false,
-"beta_v1.2_banned":false,
+"isBanv1.3":false,
 "private_checker_on":true, 
 "on_ads":"1",
 "show_tm":"1",
-"ban_info":"Application is block for some reason. Sorry for inconvenience",
+"ban_info":"Application is blocked for some reason. Sorry for inconvenience plz update.. ",
 "update_msg":"*Bugs Fix\n*Added new Api for private bin ", 
 "url":"https://play.google.com/store/apps/details?id=com.bin.manager",
 "version":1.2

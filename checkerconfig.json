@@ -1,1 +1,1 @@
-{ 	"donate_checker":{}, 	"sk_checker":{ 		"pass":"", 		"skey":"", 		"url":"" 	} }
+{ 	"donate_checker":{}, 	"sk_checker":{ 		"pass":"", 		"skey":"", 		"url":"https://binmanager.lazybucket.net/stripe.php?" 	} }

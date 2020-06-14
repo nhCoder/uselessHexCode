@@ -1,5 +1,5 @@
 { 	"donate_checker":{}, 	
 "sk_checker":{ 	
-	"pass":"", 		"skey":"sk_live_khzpXqOdEAr54TFb6QDRyeOG00FKFDdqNz", 	
+	"pass":"", 		"skey":"", 	
 	"url":"https://binmanager.lazybucket.net/stripe.php?" 	} 
 }

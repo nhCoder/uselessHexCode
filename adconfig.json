@@ -1,6 +1,6 @@
 { 
 	"showAds":true,
- 	"showFBAds":true, 	"showFullAdFrequent":false, 	"showGoogleAds":false ,
+ 	"showFBAds":true, 	"showFullAdFrequent":true, 	"showGoogleAds":false ,
 	"showGoogleRewardVid":false
 
 }

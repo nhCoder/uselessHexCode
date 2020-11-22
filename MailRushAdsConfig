@@ -1,8 +1,8 @@
 { 
 	"showAds":true,
- 	"showFBAds":true, 	
-  "showFullAdFrequent":true,
-  "showGoogleAds":false ,
-	"showGoogleRewardVid":false,
+ 	"showFBAds":false, 	
+  	"showFullAdFrequent":true,
+  	"showGoogleAds":true ,
+	"showGoogleRewardVid":true,
 	"reloadBanner":false
 }

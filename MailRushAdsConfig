@@ -1,5 +1,5 @@
 { 
-	"showAds":rue,
+	"showAds":true,
  	"showFBAds":true, 	
   	"showGoogleAds":false ,
 	"showGoogleRewardVid":false,

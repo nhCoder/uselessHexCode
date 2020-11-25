@@ -2,7 +2,7 @@
 	"showAds":true,
  	"showFBAds":true, 	
   	"showGoogleAds":false ,
-	"showGoogleRewardVid":true,
+	"showGoogleRewardVid":false,
 	"showFullAdFrequent":true,
 	"reloadBanner":false
 }

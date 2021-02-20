@@ -1,6 +1,6 @@
 { 
 	"showAds":true,
- 	"showFBAds":true, 	
-	"showVideoAd":false,
+ 	"showFBAds":false, 	
+	"showVideoAd":true,
   "domain":"https://mailrush.in"
 }

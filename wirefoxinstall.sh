@@ -176,8 +176,8 @@ echo "Configuring iptables..."
 echo "Configuring kernel networking parameters..."
 if [ -d /etc/sysctl.d ]
 then
-  mv 17-vpn.conf /etc/sysctl.d/17-vpn.conf
-  ln -s /etc/sysctl.d/17-vpn.conf 17-vpn.conf
+  mv -f 17-vpn.conf /etc/sysctl.d/17-vpn.conf
+  ln -f /etc/sysctl.d/17-vpn.conf 17-vpn.conf
 elif [ -f /etc/sysctl.conf ]
 then
   cat <(echo ; echo) 17-vpn.conf >> /etc/sysctl.conf

@@ -133,7 +133,7 @@ EOF
 
 echo "Installing dependencies..."
 apt-get update
-apt-get install strongswan strongswan-pki
+apt-get install -y strongswan strongswan-pki
 
 
 ##########################

@@ -1,12 +1,12 @@
 {
   "android": {
     "version": 47,
-    "force": "True",
+    "force": true,
     "changelog": ""
   },
   "ios": {
     "version": 47,
-    "force": "True",
+    "force": true,
     "changelog": ""
   }
 }

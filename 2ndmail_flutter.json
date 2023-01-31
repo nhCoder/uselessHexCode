@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": 58,
+    "version": 57,
     "force": true,
     "changelog": "\"hello\""
   },

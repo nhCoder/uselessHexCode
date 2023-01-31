@@ -1,0 +1,12 @@
+{
+  "android": {
+    "version": 57,
+    "force": true,
+    "changelog": "\"hello\""
+  },
+  "ios": {
+    "version": 57,
+    "force": true,
+    "changelog": "\"hello\""
+  }
+}

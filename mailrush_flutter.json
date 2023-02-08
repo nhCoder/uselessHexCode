@@ -1,6 +1,6 @@
 {
   "android": {
-    "version": 49,
+    "version": 48,
     "force":true,
     "changelog": "Fixed bugs and errors."
   },

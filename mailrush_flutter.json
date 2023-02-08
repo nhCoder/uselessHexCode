@@ -1,8 +1,8 @@
 {
   "android": {
-    "version": 47,
+    "version": 49,
     "force":true,
-    "changelog": "\"hello\""
+    "changelog": "Fixed bugs and errors."
   },
   "ios": {
     "version": 47,

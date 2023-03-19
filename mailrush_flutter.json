@@ -1,8 +1,8 @@
 {
   "android": {
-    "version": 48,
+    "version": 51,
     "force":true,
-    "changelog": "Fixed bugs and errors."
+    "changelog": "- App launch faster \n- New UI \n- Added notification"
   },
   "ios": {
     "version": 47,

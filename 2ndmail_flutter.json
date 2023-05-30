@@ -5,8 +5,8 @@
     "changelog": ""
   },
   "ios": {
-    "version": 57,
+    "version": 60,
     "force": true,
-    "changelog": "\"hello\""
+    "changelog": "\"UI and bug fixes\""
   }
 }
